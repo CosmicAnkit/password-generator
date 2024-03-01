@@ -14,11 +14,11 @@ This is a simple password generator application built using React. It allows use
 ## Installation
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/CosmicAnkit/password-generator.git
    ```
 2. Navigate to the project directory:
    ```
-   cd password-generator-react
+   cd password-generator
    ```
 3. Install dependencies:
    ```
